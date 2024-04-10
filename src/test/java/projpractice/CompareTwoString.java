@@ -21,10 +21,10 @@ public class CompareTwoString {
 		
 		if(s1.equals(s2)==true)
 				{
-			System.out.println("both are equal");
+			System.out.println("values are equal");
 		}
 		else {
-			System.out.println("both are not equal");//o/p is references are not equal
+			System.out.println("values are not equal");//o/p is values are equal
 		}
 		
 		//concatenated method
